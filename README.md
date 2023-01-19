@@ -30,7 +30,7 @@ Something to highlight is that the biggest local agriculture product produce is 
 has low nutrients (0g protein, 0.3g fat and 99g carbs). As a result, Figure 2 highlights that Brazil
 has a massive production of carbohydrates compared to fat and proteins.
 
-![Nutrients locally produced and population needs](img/local-nutrients.png)
+![Nutrients locally produced and population needs](img/local-nutrient.png)
 
 Figure 2: Nutrients locally produced and the population needs
 
