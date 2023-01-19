@@ -21,28 +21,36 @@ Next, we considered the population needs, based on the assumption that 500g is n
 day per person. The breakdown of this 500g was that 15% needed to protein, 15% needed to
 be fat and the remaining 70% needed to be carbohydrates as discussed earlier in the report.
 
-Figure 6: Top 5 local agricultural products produced
+![Top 5 local agricultural products](img/local-products.png)
 
-Figure 6 represents how many tonnes are produced by the top 5 agricultural products.
+Figure 1: Top 5 local agricultural products produced
+
+Figure 1 represents how many tonnes are produced by the top 5 agricultural products.
 Something to highlight is that the biggest local agriculture product produce is sugar cane which
-has low nutrients (0g protein, 0.3g fat and 99g carbs). As a result, Figure 7 highlights that Brazil
+has low nutrients (0g protein, 0.3g fat and 99g carbs). As a result, Figure 2 highlights that Brazil
 has a massive production of carbohydrates compared to fat and proteins.
 
-Figure 7: Nutrients locally produced and the population needs
+![Nutrients locally produced and population needs](img/local-nutrients.png)
+
+Figure 2: Nutrients locally produced and the population needs
 
 Additionally, we used a trade matrix to find import and export of agricultural products to the
-country of analysis. Figure 8 shows that Brazil relies heavily in exports, specially with China. In
+country of analysis. Figure 3 shows that Brazil relies heavily in exports, specially with China. In
 terms of imports the biggest partner country is Argentina and Paraguay that are two
 neighbouring countries.
 
-Figure 8: Top 5 import and export partners
+![Top 5 import and export partners](img/import-export-partners.png)
+
+Figure 3: Top 5 import and export partners
 
 The total amount of tonnes and the specific nutrients of the agricultural product were used to
-estimate the total amount of nutrients available in the country. Figure 9 shows that even having
+estimate the total amount of nutrients available in the country. Figure 4 shows that even having
 a low production of protein, Brazil protein exports are very high being only half of the
 carbohydrates.
 
-Figure 9: Export and import nutrients and the population need
+![Export and import nutrients and the population need](img/export-import-nutrients.png)
+
+Figure 4: Export and import nutrients and the population need
 
 Having the knowledge of imports, export and locally produce agricultural products is not enough
 to have a clear picture of the country available nutrients. Consequently, it was used the following
@@ -50,14 +58,16 @@ formula to describe the nutrients available in the country:
 
 ```Local nutrient produce (Tonnes) - Nutrient exports (Tonnes) + Nutrient imports (Tonnes)```
 
-Figure 10: Nutrients available in the country considering local produce, exports and imports
+![Nutrients available in the country considering local produce, exports and imports](img/nutrients-available.png)
 
-Figure 10 describes that the amount of nutrients to feed the Brazilian population is more than
+Figure 5: Nutrients available in the country considering local produce, exports and imports
+
+Figure 5 describes that the amount of nutrients to feed the Brazilian population is more than
 enough. However, according to the UN data, Brazil has a 5.4 million people (2.5% of the
 population) as of 2019 undernourished.
 
 Brazil is a specific case that can potentially have little problems in terms of food insecurity due
 to supply of conflict challenges as it has a strong agricultural produce. However, as depicted in
-Figure 10, the access to food is one of the most critical problems and as Brazil relies heavily on
+Figure 5, the access to food is one of the most critical problems and as Brazil relies heavily on
 exports, a trade problem can suggest less income to the country incrementing the access to
 food. In the Brazilian scenario, food production is not a problem but rather access to food
